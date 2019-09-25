@@ -1,1 +1,5 @@
 # Week 02 Journal
+
+In major studio, we’re currently working how to design for strangers to interact with it without having any instructions written on how to use or interact with the installation. I want to play around designing real gadgets and exploring different areas to merge in physical computing such as music in physical computing, making sci-fi gadgets a real thing, designing to solve real world issues, merging physical computing with machine learning (sounds fun) and a bunch more.
+
+Thoughts about making things “smart”. It can sound different for everyone, for me smart is an interlinked communication system that relays out every bit of information, and processes every bit of information coming in and perform actions based on my preferences with me having to calibrate or set it up. Think of it like a deep neural network linked to an Artificial Intelligence. At the same time linking systems to AI imposes a security threat as well, so imposing a layer of security to protect this precise and private data to help protect my privacy.
