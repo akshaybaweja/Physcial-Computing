@@ -1,5 +1,7 @@
 # Week 02 Journal
 
 In major studio, we’re currently working on how to design for strangers to interact with it without having any instructions written on how to use or interact with the installation. I want to play around creating real gadgets and exploring different areas to merge in physical computing such as music in physical computing, making sci-fi gadgets a real thing, designing to solve real-world issues, combining physical computing with machine learning (sounds fun) and a bunch more.
+
 Thoughts about making things “smart.” It can sound different for everyone. For me, smart is an interlinked communication system that relays out every bit of information and processes every bit of data coming in and perform actions based on my preferences with me having to calibrate or set it up. Think of it as a deep neural network linked to Artificial Intelligence. At the same time connecting systems to AI imposes a security threat as well, so imposing a layer of security to protect this precise and private data to help protect my privacy.
+
 For this class, I would love to explore and build products with no screens. When we think of computing, we have a perception in the mind of a device with a screen. Making something with no displays would be fun and would mark the idea of computing with no displays. I see the future where we won’t be correlating screens with the computing world. Apart from this, I would also like to explore representing music in the physical world and interacting with music or making things react to music also sounds a great idea.
