@@ -1,2 +1,13 @@
 # Week 04 Journal
 
+During the lecture, from the given four categories, Artificial Intelligence, Community, Smart, and Computation, I picked up the following keywords
+* Artificial Intelligence
+* Surveillance
+* Privacy
+* Data Analytics
+* Social Impact
+* Responsibility
+
+As the saying from Spiderman goes, "With great power comes great responsibility," I believe in today's era of data, and its social impact poses a significant threat to our privacy. In a movie by Netflix, "The Great Hack," we've seen how data analytics can cause a much stronger social impact on our day to day lives, how it can play a significant role in the functioning of a government body. It also talks about our virtual identity and how a digital trace of our movements is kept and is used to predict our behavior every second, making us commodities instead of consumers. These surveillance cameras are now being advanced to Artificial Intelligence where we won't only be watched bust also analyzed and judged upon based on our actions, color, clothing, voice, and many more. This new form of surveillance is changing how power will increase and make an impact on how we live and work. Talking of CCTVs and analytics, Amazon introduced automated stores where you pick and walk out of the store, and you are billed on your Amazon Pay account. Imagine the level of analytics being used to identify people and sensing their actions and analyzing what all stuff they're picking up and billing those items, seems fascinating when you look at it first but when to start to think about it in a more profound sense would send chills down your spine. 
+
+I came across an article in NYTimes - [How Surveillance Cameras Could Be Weaponized With A.I.](https://www.nytimes.com/2019/06/13/us/aclu-surveillance-artificial-intelligence.html), stating how A.I. and surveillance together can be used as a weapon for or against the general masses. It sites an example by I.B.M. illustrating how a CCTV video feed of a retail store be analyzed estimating customer's age and their loyalty status. Also, A.C.L.U. warned in their report - "We could find ourselves subject to constant petty harassment and the ignoring of common sense extenuating circumstances". This invited a potential for abuse without properly being regulated and would lead to criminal activities. One we saw in the 'The Great Hack,' of how unregulated data by Facebook was being misused by Cambridge Analytica to manipulate the 2016 U.S. Elections just by analyzing the behavior of people in the U.S. and moderating only a few to interfere and dominate the whole elections.
