@@ -15,7 +15,7 @@
 * [Week 04](Week%2004/Readme.md)
 <!-- * [Week 05]() -->
 
-## Resources
+## External Resources
 
 * [Course Website](https://github.com/phillipdavidstearns/PGTE_5585_F2019)
 * [Assignments](https://medium.com/@toofanjawan)
