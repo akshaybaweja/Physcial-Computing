@@ -12,9 +12,9 @@ Some particular contexts I would like to engage myself is building to empower an
 
 Currently, I am researching on how can I enable vision impaired people to access and navigate public places and buildings independently. Last week I visited Lighthouse Guild located at Upper East Side in Manhattan and had conversations with a few vision impaired people there. I have a few interesting conversations to share
 
->I can only tell the difference between light and dark and nothing else. I have seen a transition from being an independent working man to now a dependent man. I am dependent on my caregiver for navigating me around a new space. I use a cane to move around, and many times my cane touches someone’s body, and it feels weird.
+`I can only tell the difference between light and dark and nothing else. I have seen a transition from being an independent working man to now a dependent man. I am dependent on my caregiver for navigating me around a new space. I use a cane to move around, and many times my cane touches someone’s body, and it feels weird.`
 
-` I am in the initial stage of vision loss. I love reading books, and it has become very hard to read now. Here (at Lighthouse Guild) I am learning to use assistive tools and technology to help me read, cook, and do my other daily tasks. I am learning to use screen readers and other adaptive technology for helping me through. `
+`I am in the initial stage of vision loss. I love reading books, and it has become very hard to read now. Here (at Lighthouse Guild) I am learning to use assistive tools and technology to help me read, cook, and do my other daily tasks. I am learning to use screen readers and other adaptive technology for helping me through. `
 
 `I have to carry my cane everywhere to check for obstacles and people around me, though I get a sense when someone is around, it is hard to sense other obstacles. Over time I have developed a powerful smell sensation, and it helps me to navigate in a known space. Walking down to a new place is still troublesome.`
 
