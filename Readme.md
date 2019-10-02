@@ -6,7 +6,7 @@
 * [Week 02](https://medium.com/@toofanjawan/implementing-series-and-parallel-circuits-bd20ae0e883a)
 * [Week 03](https://medium.com/@toofanjawan/arduino-getting-started-with-io-a5da671c0771)
 * [Week 04](https://medium.com/@toofanjawan/arduino-analog-inputs-7df008ad436e)
-<!-- * [Week 05](https://medium.com/@toofanjawan/) -->
+* [Week 05](https://medium.com/@toofanjawan/arduino-smoothing-and-easing-43e4579505d7)
 
 ## Journal Entries
 
