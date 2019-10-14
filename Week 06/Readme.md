@@ -10,9 +10,9 @@ There are also commonly noted psychological effects of color as it relates to tw
 
 I want to use a 4D diagonal sliced Tesseract for this interactive model with the internal cubical structure unsliced. Projecting colors onto visible faces of the tesseract would allow me in exploring the relationship of colors and emotions since a tesseract is a unique shape and is not understood by everyone. It would be unique to explore this relationship in this form.
 
-A general tesseract looks like ![Tesseract Visual](./images/tesseract.png)
+![Tesseract Visual](./images/tesseract.png)
 
-while the following figue shows how slicing it diagonally would make it look like ![Sliced Tesseract](./images/tesseract-sliced.png)
+The above figure illustrates a general tesseract while the following figue shows how slicing it diagonally would make it look like ![Sliced Tesseract](./images/tesseract-sliced.png)
 
 ### Technical Description
 
