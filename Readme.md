@@ -14,6 +14,7 @@
 * [Week 03](Week%2003/Readme.md)
 * [Week 04](Week%2004/Readme.md)
 * [Week 05](Week%2005/Readme.md)
+* [Week 06](Week%2006/Readme.md)
 
 ## External Resources
 
