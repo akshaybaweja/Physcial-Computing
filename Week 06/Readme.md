@@ -12,7 +12,8 @@ I want to use a 4D diagonal sliced Tesseract for this interactive model with the
 
 ![Tesseract Visual](./images/tesseract.png)
 
-The above figure illustrates a general tesseract while the following figue shows how slicing it diagonally would make it look like ![Sliced Tesseract](./images/tesseract-sliced.png)
+The above figure illustrates a general tesseract while the following figure shows how slicing it diagonally would make it look like following illustration
+![Sliced Tesseract](./images/tesseract-sliced.png)
 
 ### Technical Description
 
@@ -20,7 +21,7 @@ The tesseract will be changing color using RGB LEDs mounted on three inside face
 
 ![LED Placement](./images/ledPlacement.png)
 
-The above figure shows how RGB LEDs will be placed inside inner cube of the tesseract. While the below figure illustrates copper tape wraped around outer surface of the cube enabling touch sensing on the cube.
+The above figure shows how RGB LEDs will be placed inside inner cube of the tesseract. While the below figure illustrates copper tape warped around outer surface of the cube enabling touch sensing on the cube.
 
 ![Capacitive Surface](./images/capacitiveSurface.png)
 
