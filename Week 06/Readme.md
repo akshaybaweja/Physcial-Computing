@@ -13,6 +13,7 @@ I want to use a 4D diagonal sliced Tesseract for this interactive model with the
 ![Tesseract Visual](./images/tesseract.png)
 
 The above figure illustrates a general tesseract while the following figure shows how slicing it diagonally would make it look like following illustration
+
 ![Sliced Tesseract](./images/tesseract-sliced.png)
 
 ### Technical Description
@@ -26,4 +27,4 @@ The above figure shows how RGB LEDs will be placed inside inner cube of the tess
 ![Capacitive Surface](./images/capacitiveSurface.png)
 
 ### Potential Problem
-I think a potential problem I might face would be fabricating a perfect tesseract shape and assembling it as one. 
+I think a potential problem I might face would be fabricating a perfect tesseract shape and assembling it as one single integrated unit.
