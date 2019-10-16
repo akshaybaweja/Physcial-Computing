@@ -26,5 +26,7 @@ The above figure shows how RGB LEDs will be placed inside inner cube of the tess
 
 ![Capacitive Surface](./images/capacitiveSurface.png)
 
+Refer [Schematics/Block Diagram here](./images/Schematic.pdf)
+
 ### Potential Problem
 I think a potential problem I might face would be fabricating a perfect tesseract shape and assembling it as one single integrated unit.
