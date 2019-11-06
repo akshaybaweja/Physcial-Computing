@@ -8,7 +8,9 @@
 * [Week 04](https://medium.com/@toofanjawan/arduino-analog-inputs-7df008ad436e)
 * [Week 05](https://medium.com/@toofanjawan/arduino-smoothing-and-easing-43e4579505d7)
 * [Week 06](https://medium.com/@toofanjawan/interfacing-motors-2304d4154e06)
-* [Week 06 // Creative Prompt](Week%2006/CreativePrompt.md)
+<!-- * [Week 06 // Creative Prompt](Week%2006/CreativePrompt.md) -->
+* [Midterm](https://medium.com/@toofanjawan/tsrct-6d79501ecd46)
+* [Week 09](https://medium.com/@toofanjawan/designing-interaction-43c21edc2078)
 
 ## Journal Entries
 
