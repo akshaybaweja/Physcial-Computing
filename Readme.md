@@ -10,7 +10,7 @@
 * [Week 06](https://medium.com/@toofanjawan/interfacing-motors-2304d4154e06)
 <!-- * [Week 06 // Creative Prompt](Week%2006/CreativePrompt.md) -->
 * [Midterm](https://medium.com/@toofanjawan/tsrct-6d79501ecd46)
-* [Week 09]()
+<!-- * [Week 09]() -->
 
 ## Journal Entries
 
@@ -19,7 +19,7 @@
 * [Week 04](Week%2004/Readme.md)
 * [Week 05](Week%2005/Readme.md)
 * [Week 06](Week%2006/Readme.md)
-* [Week 09]()
+* [Week 09](Week%2007/Readme.md)
 
 ## External Resources
 
