@@ -12,6 +12,9 @@
 * [Midterm](https://medium.com/@toofanjawan/tsrct-6d79501ecd46)
 * [Week 10](https://medium.com/@toofanjawan/arduino-and-processing-2104f6918aec)
 
+* [Final Project](https://medium.com/@toofanjawan/haptic-display-glove-5f0d5fc8646c)
+* [Final Project Presentation](https://drive.google.com/file/d/1spNtjnjbbYtbHO3AKuPK6hMyR2Bi1yd8/view?usp=sharing)
+
 ## Journal Entries
 
 * [Week 02](Week%2002/Readme.md)
